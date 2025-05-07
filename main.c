@@ -4,7 +4,7 @@
 
 char *
 die(void) {
-	perror("numlns: ");
+	perror("numlns");
 	return NULL;
 }
 
