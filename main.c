@@ -41,4 +41,5 @@ int main(void) {
 		printf("%lld\t%s", ++line, str);	
 		free(str);
 	}
+	return 0;
 }
